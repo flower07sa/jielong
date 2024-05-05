@@ -1,0 +1,1 @@
+window._CCSettings={platform:"web-mobile",groupList:["default","3d"],collisionMatrix:[[true],[false,false]],hasResourcesBundle:true,hasStartSceneBundle:false,remoteBundles:[],subpackages:[],launchScene:"db://assets/scene.fire",orientation:"",jsList:["assets/_babel_runtime_helpers.f3596.js"],bundleVers:{internal:"d17e2",resources:"d660f",main:"37199"}};
